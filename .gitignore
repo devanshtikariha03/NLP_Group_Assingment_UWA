@@ -1,0 +1,28 @@
+# Python/runtime caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Temporary diagnostics created during development
+runtime_dll/
+smoke_results/
+
+# Downloaded upstream template clone (required files are vendored in report/)
+acl_template/
+
+# Extracted dataset duplicates; the original supplied archives are versioned
+MultiRC-20260927T040223Z-1-001/
+PIQA-20260927T040220Z-1-001/
+ReClor-20260927T040220Z-1-001/
+TweetQA-20260927T040219Z-1-001/
+
+# LaTeX intermediates (keep report.pdf)
+report/*.aux
+report/*.bbl
+report/*.blg
+report/*.fdb_latexmk
+report/*.fls
+report/*.log
+report/*.out
+report/*.synctex.gz
+

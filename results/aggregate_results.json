@@ -1,0 +1,10 @@
+{
+  "main_test_accuracy_mean": 0.6064562930721799,
+  "main_test_accuracy_std": 0.0033243204170880555,
+  "main_test_macro_f1_mean": 0.6064295482558054,
+  "main_test_macro_f1_std": 0.0033015625501055584,
+  "main_seed13_accuracy_95ci": [
+    0.586493471164309,
+    0.6311207834602829
+  ]
+}

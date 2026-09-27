@@ -1,0 +1,20 @@
+{
+  "root": ".",
+  "output_dir": "results",
+  "epochs": 6,
+  "patience": 2,
+  "batch_size": 256,
+  "embedding_dim": 96,
+  "hidden_dim": 64,
+  "dropout": 0.25,
+  "learning_rate": 0.002,
+  "weight_decay": 0.0001,
+  "grad_clip": 5.0,
+  "device": "cpu",
+  "seeds": [
+    13,
+    37,
+    73
+  ],
+  "quick": false
+}

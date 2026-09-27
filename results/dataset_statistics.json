@@ -1,0 +1,34 @@
+{
+  "sizes": {
+    "provided_train": 16113,
+    "train": 13696,
+    "validation": 2417,
+    "test": 1838
+  },
+  "label1_fraction": {
+    "train": 0.5002190420560748,
+    "validation": 0.5002068680182044,
+    "test": 0.5048966267682263
+  },
+  "token_lengths": {
+    "goal": {
+      "mean": 7.806864022838702,
+      "median": 8.0,
+      "p95": 14.0,
+      "max": 35
+    },
+    "solution1": {
+      "mean": 21.22944206541302,
+      "median": 14.0,
+      "p95": 61.0,
+      "max": 472
+    },
+    "solution2": {
+      "mean": 21.235027617451745,
+      "median": 14.0,
+      "p95": 61.0,
+      "max": 472
+    }
+  },
+  "vocabulary_size": 10812
+}
